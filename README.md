@@ -1,19 +1,18 @@
-# -AgriCare-Assistant
-A production-oriented RAG assistant built around real agricultural product data and company support knowledge.
+# AgriCare Assistant
+AgriCare Assistant is a client-built knowledge assistant developed for a China-based agricultural company using real, client-provided data.
+<p align="center">
+  <img src="./assets/agricare-assistant.png" alt="AgriCare Assistant" width="100%">
+</p>
+
+<p align="center">
+  <strong></strong>
+</p>
+
 
 ```markdown
 
 
-<p align="center">
-  <img src="./assets/agricare-assistant.png" alt="AgriCare Assistant" width="100%">
-</p>
-AgriCare Assistant is a client-built knowledge assistant developed for a China-based agricultural company using real, client-provided data.
 
-The system brings product information and company support knowledge into a single interface designed to handle practical agricultural and customer-service questions.
-
-This is not a generic chatbot built on public datasets. The retrieval pipeline, routing logic, product matching, and response generation were designed around the client's actual data and support scenarios.
-
----
 
 ## What It Does
 
@@ -382,9 +381,3 @@ This repository does not contain:
 
 Any publicly available examples are non-sensitive representations of the system.
 
----
-
-## Status
-
-**Client Project — Completed**
-```
